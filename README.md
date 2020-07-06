@@ -1,4 +1,4 @@
-# Franks Basement Systems Email Signature Generator for Microsoft Outlook
+# Frank's Mr. Plumber Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 

@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/169/franks-basement-systems-log-with-services_-_Copy.png" alt="" style="width:275px">
+            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/563/franks-plumbing-logo-services-4C.png" alt="" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of companylogo and click & drag to bottom-right corner</li>
+              <li>1. Place cursor at the top-left corner of company logo and click & drag to bottom-right corner</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Franks Basement Systems
+                    &copy;2020 Frank's Mr. Plumber
                 </p>
             </div>
         </div>
